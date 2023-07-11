@@ -113,3 +113,133 @@
     margin-left: 50px;
     align-items: flex-start;
 }
+footer {
+    background-color: #111010;
+    padding: 10% 0;
+}
+.footer-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer-heading {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 30px;
+}
+.footer-para {
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
+}
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+.insta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 8%;
+}
+.insta-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 20px;
+}
+.insta-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 594px;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+.insta-gallery {
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 0;
+    width: 100%;
+    height: auto;
+}
+.gallery-img {
+    max-width: 300px;
+}
+.insta-subs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 0;
+    background-image: url("./Flower Asset/Rectangle 9.png");
+    background-size: cover;
+    width: 100%;
+    margin: 5% 0;
+}
+.subs-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-top: 80px;
+}
+.subs-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+}
+.subs-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 30px 0px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.email {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+    margin-right: 20px;
+}
+.subs-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 10px;
+    width: 200px;    
+}
+::placeholder {
+    padding-left: 10px;
+}
