@@ -37,6 +37,7 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
+    border: 0;
     border-radius: 8px;
     background: #E55473;
     padding: 20px 10px;
@@ -190,6 +191,7 @@
     font-style: normal;
     font-weight: 700;
     border-radius: 8px;
+    border: 0;
     background: #E55473;
     padding: 20px 10px;
     margin: 30px 20%;
@@ -281,6 +283,7 @@
 }
 .email {
     border-radius: 8px;
+    border: 0;
     background: #FFF;
     width: 700px;
     height: 64px;
@@ -292,6 +295,7 @@
     font-style: normal;
     font-weight: 700;
     border-radius: 8px;
+    border: 0;
     background: #E55473;
     padding: 20px 10px;
     width: 200px;    
